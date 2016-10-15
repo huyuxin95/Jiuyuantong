@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="title_color">#F9A150</color>
+    <color name="xuexiaoshenghuo">#FFA6C508</color>
+    <color name="title_color_zhinan">#93CEF4</color>
+    <color name="text_brack_color">#6b6262</color>
+</resources>

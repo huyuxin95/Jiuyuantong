@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xiaoqu">
+        <item>主校区</item>
+        <item>浔东校区</item>
+        <item>庐峰校区</item>
+        <item>南湖校区</item>
+    </string-array>
+</resources>

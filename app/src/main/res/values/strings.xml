@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Xiaoyuantong</string>
+    <string name="title_jiuyuantong">九院通</string>
+    <string name="title_xuexiaoshenghuo">学校生活</string>
+    <string name="pingmiantu">校区平面图</string>
+    <string name="fengjing">校园风景</string>
+    <string name="xinshengzhinan">新生指南</string>
+    <string name="fanhui">返回</string>
+    <string name="title_xiaoqupingmian">校区平面图</string>
+    <string name="title_xiaoyuanfengjing">校园风景</string>
+    <string name="title_xinshengzhinan">新生指南</string>
+    <string name="zhengli">整理新装</string>
+    <string name="mudidi">抵达目的地</string>
+    <string name="diyizhan">入校第一站</string>
+    <string name="yigebing">我是一个兵</string>
+    <string name="wanhuatong">生活万花筒</string>
+    <string name="xinpengyou">结交新朋友</string>
+    <string name="youbuzhu">勤练有补助</string>
+    <string name="jiyu">学长学姐寄语</string>
+    <string name="title_youwanjiujiang">游玩九江</string>
+    <string name="title_jingdianjiesao">景点介绍</string>
+    <string name="title_haomabaishitong">号码百事通</string>
+    <string name="title_addnum">添加新号码</string>
+    <string name="string_name">姓名:</string>
+    <string name="string_num">联系号码:</string>
+    <string name="string_cate">分类:</string>
+    <string name="string_tijiao">提交</string>
+    <string name="string_congzhi">重置</string>
+    <string name="chuxingzhianan">出行指南</string>
+    <string name="wodeweizhi">我的位置</string>
+    <string name="xianlu">线路查询</string>
+    <string name="weizhichaxun">位置查询</string>
+    <string name="jiujiang">九江</string>
+</resources>
