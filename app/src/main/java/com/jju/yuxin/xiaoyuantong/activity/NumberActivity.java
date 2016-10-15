@@ -69,6 +69,7 @@ public class NumberActivity extends Activity {
                         dismissPopupWindow();
                        startActivity(new Intent(NumberActivity.this,AddNumActivity.class));
                         finish();
+
                     }
                 });
 
