@@ -51,6 +51,7 @@ public class PingMianActivity extends Activity {
         ll = (LinearLayout) findViewById(R.id.ll);
         MyListener listener = new MyListener();
         ll.setOnTouchListener(listener);
+      //  imback.setOnTouchListener(listener);
     }
 
     private void InitListener() {
